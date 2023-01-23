@@ -1,0 +1,35 @@
+commit e887d8c8f0b54e825f88792708e2b0b49c9f1982
+Author: Kyryl Vasianovych <s22803@pjwstk.edu.pl>
+Date:   Tue Dec 6 00:01:06 2022 +0100
+
+    solved conflicts
+
+ second.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit 29546cc0858e9ffbc39fb352478f1e226739371c
+Author: Kyryl Vasianovych <s22803@pjwstk.edu.pl>
+Date:   Mon Dec 5 23:49:19 2022 +0100
+
+    second txt modified
+
+ second.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 80532140b858fd253d03d8e54a191c5f2b542fcf
+Author: Kyryl Vasianovych <s22803@pjwstk.edu.pl>
+Date:   Mon Dec 5 23:41:03 2022 +0100
+
+    second txt
+
+ second.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 49227765fef8211c627264887cf3fe29cfa0daef
+Author: Kyryl Vasianovych <s22803@pjwstk.edu.pl>
+Date:   Mon Dec 5 23:36:23 2022 +0100
+
+    one txt
+
+ text.txt | 1 +
+ 1 file changed, 1 insertion(+)
